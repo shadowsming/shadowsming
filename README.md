@@ -113,19 +113,6 @@ faiz = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Faiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadowsming&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowsming&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shadowsming&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
